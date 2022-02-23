@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**iqbalfebrenh23/iqbalfebrenh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Iqbal Febren Haryanto**.\
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa**saat ini sedang mengikuti Studi Independen di [Dicoding](https://www.dicoding.com/).\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya sudah mempelajari berbagai kelas yaitu;
+* Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software
+* Pengenalan Ke Logika Pemrograman
+* Belajar Dasar Git Dengan Github
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/iqbal-febren-537728221/).
+ku ya.
